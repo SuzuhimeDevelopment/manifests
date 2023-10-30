@@ -21,4 +21,5 @@ Credits:
  * [**Renelz**](https://github.com/renelzx)
  * [**Batuhantrkgl**](https://github.com/batuhantrkgl)
  * [**Lê Minh Trí**](https://github.com/crazyads69)
+ * [**HotaruZera**](https://github.com/zhueszka)
  * [**Entire Devs and Testers on Galaxy A10s Development - Indonesia**](https://t.me/SamsungA10sID)
