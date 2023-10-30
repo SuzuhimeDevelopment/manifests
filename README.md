@@ -18,4 +18,7 @@ Credits:
  * [**ItzKaguya**](https://github.com/Hirozuto)
  * [**rsuntk**](https://github.com/rsuntk)
  * [**LineageOS**](https://github.com/LineageOS)
+ * [**Renelz**](https://github.com/renelzx)
+ * [**Batuhantrkgl**](https://github.com/batuhantrkgl)
+ * [**Lê Minh Trí**](https://github.com/crazyads69)
  * [**Entire Devs and Testers on Galaxy A10s Development - Indonesia**](https://t.me/SamsungA10sID)
